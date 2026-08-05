@@ -53,7 +53,7 @@ Uso IA como ferramenta de trabalho real — não apenas como assistente de códi
   <a href="https://www.linkedin.com/in/rubensmarquesbi/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://ghasper.com.br/bi/">
+  <a href="https://nexusdatabi.com/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>
